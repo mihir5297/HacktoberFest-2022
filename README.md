@@ -4,7 +4,7 @@ Participate in Hacktoberfest and contribute to Open Source using this repository
 
 ## Authors
 
-Hi! I am Mihir pesswani, a full stack web developer with expertise in ReactJs and Django. I am currently in 4th year of my Computer Science and Engineering degree.
+Hi! I am Mihir Pesswani, a Machine Learning Developer with expertise in Python and ML Algorithms. I am currently in the final year of my Computer Science and Engineering Degree.
 
 
 ## Appendix
@@ -12,6 +12,6 @@ Hi! I am Mihir pesswani, a full stack web developer with expertise in ReactJs an
 Lastly, I would like to thank each contributor for their contributions. It is you all who made Hacktoberfest such a successful event.
 
 
-Thank you so much for reading this readme. I really appreciate it.
+Thank you so much for reading this Readme. I really appreciate it.
 
 Cheers! 🍻
